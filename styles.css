@@ -1,5 +1,44 @@
+h1{
+    color: #ea4748;
+    text-align: center;
+    font-size: 5em;
+    font-family: "Rock 3D", system-ui;
+    margin-bottom: 20px;
+   
+}
+h2{
+    color: #ea4748;
+    text-align: center;
+    font-size: 2em;
+    font-family: "Rock 3D", system-ui;
+    margin-bottom: 20px;
+}
 h3{
-    color: #9f2b2b;
+    color: #ea4748;
+    text-align: center;
     font-size: 1.5em;
-    margin-bottom: 10px;
+    font-family: "Hachi Maru Pop", cursive;
+    margin-bottom: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 300px;
+}
+body{
+    background-color: #000000;
+}
+
+
+
+
+p{
+    color: #ea4748;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'special gothic', sans-serif;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
