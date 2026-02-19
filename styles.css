@@ -23,7 +23,7 @@ audio {
     margin: 25px auto;
     padding: 20px;
     border-radius: 15px;
-
+    opacity: 0;
     /* Red to black gradient */
     background: linear-gradient(135deg, #ea4748, #000000);
 
