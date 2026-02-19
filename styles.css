@@ -13,6 +13,28 @@ h2{
     font-family: "Rock 3D", system-ui;
     margin-bottom: 20px;
 }
+audio {
+    display: block;
+    margin: 20px auto;
+    
+}
+.music-box {
+    width: 400px;
+    margin: 25px auto;
+    padding: 20px;
+    border-radius: 15px;
+
+    /* Red to black gradient */
+    background: linear-gradient(135deg, #ea4748, #000000);
+
+    /* Optional glow effect */
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.6);
+
+    text-align: center;
+}
+
+.music-box audio {
+    width: 100%;}
 h3{
     color: #ea4748;
     text-align: center;
